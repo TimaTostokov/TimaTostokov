@@ -3,6 +3,16 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добро+пожаловать+на+мой+GitHub+профиль!;Я+мобильный+разработчик;Люблю+изучать+новые+технологии)
 
 
+
+
+
+![Snake animation](https://raw.githubusercontent.com/TimaTostokov/snk/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
 ## 📫 Как со мной связаться:
 - ✉️ Email: [t1005828@gmail.com](t1005828@gmail.com)
 - 💻 LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
@@ -34,5 +44,5 @@
 </p>
 
 
-![Snake animation](https://raw.githubusercontent.com/TimaTostokov/snk/output/github-contribution-grid-snake.svg)
+
 
