@@ -32,3 +32,8 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TimaTostokov/TimaTostokov/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
