@@ -1,9 +1,9 @@
 Привет, меня зовут Темирлан, я разработчик Android 👋 Пишу на Kotlin и Java. Всегда придерживаюсь принципов ООП и стремлюсь, чтобы мой код соответствовал SOLID! Для работы с сетью использую Retrofit и OkHttp, а для контроля версий библиотек — Version Catalog. В данный момент изучаю Jetpack Compose и Compose Kotlin для кросс-платформенной разработки.
 
 ## 📫 Как со мной связаться:
-- Email: [t1005828@gmail.com](t1005828@gmail.com)
-- LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
-- Telegram: [Temirilan_JM](https://t.me/Temirlan_JM)
+- ✉️ Email: [t1005828@gmail.com](t1005828@gmail.com)
+- 💻 LinkedIn: [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 💬 Telegram: [Temirilan_JM](https://t.me/Temirlan_JM)
 
 ## 📈 Статистика GitHub:
 <div align="center">
