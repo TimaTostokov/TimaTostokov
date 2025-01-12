@@ -35,3 +35,4 @@
 
 
 ![Snake animation](https://raw.githubusercontent.com/TimaTostokov/snk/output/github-contribution-grid-snake.svg)
+
