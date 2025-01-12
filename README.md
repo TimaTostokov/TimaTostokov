@@ -7,9 +7,9 @@
 
 ## 📈 Статистика GitHub:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TimaTostokov&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=TimaTostokov&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TimaTostokov&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimaTostokov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TimaTostokov&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </div>
 
 Я прошел стажировку в GeeksPro, где научился писать чистый код, используя функциональную многомодульность в связке с Clean Architecture и MVVM. Во время стажировки я разработал приложение-для туристов, клининга, дезинфекции и приложение для МВД — MVD! Я отвечал за архитектуру приложения и реализацию таких функций, как пагинация, поиск, фильтрация, редактирование профиля, а также проводил код-ревью для других участников стажировки. Я также принимал участие в стартапах, таких как Farmers — приложение для цифровизации агропромышленности.
